@@ -2,7 +2,7 @@
 <h3 align="center">Junior Full-Stack Developer · PHP · Java · Python · JavaScript</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍Rio%20do%20Sul%2C%20SC-Brazil-blue?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/Rio%20do%20Sul%2C%20SC-Brazil-blue?style=for-the-badge" alt="Location"/>
 </p>
 
 ---
@@ -64,7 +64,7 @@ I got into programming out of curiosity about how games work, and that curiosity
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Filipe-Francisco-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Filipe-Francisco-07&theme=tokyonight" height="165" alt="GitHub Stats"/>
   &nbsp;
   <img src="https://streak-stats.demolab.com/?user=Filipe-Francisco-07&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
@@ -73,19 +73,11 @@ I got into programming out of curiosity about how games work, and that curiosity
 
 ### Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Filipe-Francisco-07/data-structures">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Filipe-Francisco-07&repo=data-structures&theme=tokyonight&hide_border=true" alt="data-structures"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Filipe-Francisco-07/ProjetoFinal-DW-Estacionamento">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Filipe-Francisco-07&repo=ProjetoFinal-DW-Estacionamento&theme=tokyonight&hide_border=true" alt="ProjetoFinal-DW-Estacionamento"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Filipe-Francisco-07/Space-Adventures">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Filipe-Francisco-07&repo=Space-Adventures&theme=tokyonight&hide_border=true" alt="Space-Adventures"/>
-  </a>
-</p>
+| Project | Tech | Description |
+|---|---|---|
+| [data-structures](https://github.com/Filipe-Francisco-07/data-structures) | Java | Lists, stacks, queues and trees implemented from scratch |
+| [ProjetoFinal-DW-Estacionamento](https://github.com/Filipe-Francisco-07/ProjetoFinal-DW-Estacionamento) | PHP | Parking management web system |
+| [Space-Adventures](https://github.com/Filipe-Francisco-07/Space-Adventures) | C# | Game project built in C# |
 
 ---
 
