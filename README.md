@@ -2,7 +2,7 @@
 <h3 align="center">Junior Full-Stack Developer · PHP · Java · Python · JavaScript</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rio%20do%20Sul%2C%20SC-Brazil-blue?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/📍 Rio%20do%20Sul%2C%20SC-Brazil-blue?style=for-the-badge" alt="Location"/>
 </p>
 
 ---
