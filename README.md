@@ -84,7 +84,7 @@ I got into programming out of curiosity about how games work, and that curiosity
 ### Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/filipe-francisco-franknberger">
+  <a href="https://www.linkedin.com/in/filipe-francisco-franknberger-592a68249/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
