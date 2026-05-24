@@ -15,6 +15,16 @@ I got into programming out of curiosity about how games work, and that curiosity
 
 ---
 
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Filipe-Francisco-07&theme=tokyonight" height="165" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=Filipe-Francisco-07&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+</p>
+
+---
+
 ### Tech Stack
 
 **Languages**
@@ -58,16 +68,6 @@ I got into programming out of curiosity about how games work, and that curiosity
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-6C3EB8?style=for-the-badge&logo=php&logoColor=white)
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Filipe-Francisco-07&theme=tokyonight" height="165" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Filipe-Francisco-07&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
-</p>
 
 ---
 
