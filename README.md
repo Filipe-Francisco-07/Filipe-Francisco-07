@@ -2,7 +2,7 @@
 <h3 align="center">Junior Full-Stack Developer · PHP · Java · Python · JavaScript</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20Rio%20do%20Sul%2C%20SC-Brazil-blue?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/Rio%20do%20Sul%2C%20SC-Brazil-blue?style=for-the-badge" alt="Location"/>
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 I'm a Computer Science student at **Instituto Federal Catarinense (IFC)** and a Junior Full-Stack Developer at **IPM Sistemas**, where I work across back-end, front-end, and mobile.
 
-I got into programming out of curiosity about how games work, and that curiosity never left. When learning something new, i reach for bare code before frameworks. Not because frameworks are bad, quite the opposite, but because understanding what happens underneath makes you a better developer with or without them. I work across the full stack, though back-end is where I feel most at home.
+I got into programming out of curiosity about how games work, and that curiosity never left. When learning something new, I reach for bare code before frameworks. Not because frameworks are bad, quite the opposite, but because understanding what happens underneath makes you a better developer with or without them. I work across the full stack, though back-end is where I feel most at home.
 
 ---
 
@@ -44,7 +44,7 @@ I got into programming out of curiosity about how games work, and that curiosity
 
 **Databases**
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -54,7 +54,7 @@ I got into programming out of curiosity about how games work, and that curiosity
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=auth0&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-6C3EB8?style=for-the-badge&logo=php&logoColor=white)
