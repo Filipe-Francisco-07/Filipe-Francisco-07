@@ -2,14 +2,14 @@
 <h3 align="center">Junior Full-Stack Developer · PHP · Java · Python · JavaScript</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rio%20do%20Sul%2C%20SC-Brazil-blue?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/📍Rio%20do%20Sul%2C%20SC-Brazil-blue?style=for-the-badge" alt="Location"/>
 </p>
 
 ---
 
 ### About Me
 
-I'm a Computer Science student at **Instituto Federal Catarinense (IFC)** (graduating December 2025) and a Junior Full-Stack Developer at **IPM Sistemas**, where I work across back-end, front-end, and mobile.
+I'm a Computer Science student at **Instituto Federal Catarinense (IFC)** and a Junior Full-Stack Developer at **IPM Sistemas**, where I work across back-end, front-end, and mobile.
 
 I got into programming out of curiosity about how games work, and that curiosity never left. When learning something new, I reach for bare code before frameworks. Not because frameworks are bad, quite the opposite, but because understanding what happens underneath makes you a better developer with or without them. I work across the full stack, though back-end is where I feel most at home.
 
